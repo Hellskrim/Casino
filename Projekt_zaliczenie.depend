@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1452285612 source:c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\main.cpp
+	<iostream>
+	<Bandyta.h>
+	<Gracz.h>
+
+1452540695 c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\include\bandyta.h
+
+1452603400 source:c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\src\blackjack.cpp
+	"Blackjack.h"
+	"cstdlib"
+	<iostream>
+	<vector>
+	<algorithm>
+	<Gracz.h>
+	<time.h>
+
+1452540717 c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\include\blackjack.h
+
+1452541839 source:c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\src\bandyta.cpp
+	"Bandyta.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<Gracz.h>
+
+1452285108 c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\include\gracz.h
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1452604064 source:c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\src\gracz.cpp
+	"Gracz.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<Bandyta.h>
+	<Blackjack.h>
+	<Ruletka.h>
+
+1452613554 source:c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\src\ruletka.cpp
+	"Ruletka.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<Gracz.h>
+
+1452613729 c:\users\hellskrim\desktop\projekty\projekt_zaliczenie\include\ruletka.h
+
